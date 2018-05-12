@@ -1,0 +1,29 @@
+_repo: Soap-Making-ManualManipulation-Analysis-and-Control-in-the-Modern-Soap-Plant._34114
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thomssen, Edgar George
+    alias: Thomssen, E. G.
+    birthdate: 1886
+    gutenberg_agent_id: '36787'
+    url: http://www.gutenberg.org/2009/agents/36787
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2010-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34114'
+  lccn: '22008957'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Soap'
+- !lcc 'TP'
+title: "Soap-Making Manual\r\nA Practical Handbook on the Raw Materials, Their Manipulation,\
+  \ Analysis and Control in the Modern Soap Plant."
+url: http://www.gutenberg.org/ebooks/34114
