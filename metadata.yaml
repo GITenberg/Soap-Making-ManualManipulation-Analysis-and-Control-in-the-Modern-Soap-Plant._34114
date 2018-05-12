@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '36787'
     url: http://www.gutenberg.org/2009/agents/36787
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34114#Soap-Making-ManualManipulation-Analysis-and-Control-in-the-Modern-Soap-Plant.
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2010-10-22'
 gutenberg_type: Text
